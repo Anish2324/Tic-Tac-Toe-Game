@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Tic-Tac-Toe-Game
 This Tic-Tac-Toe game is built using React.js, offering an interactive and responsive experience. The game follows classic 3x3 grid-based gameplay, where two players take turns marking X and O in an attempt to form a winning line—either horizontally, vertically, or diagonally. 
 
